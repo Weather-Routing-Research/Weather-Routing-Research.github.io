@@ -1,9 +1,9 @@
 ---
 title: "Hybrid Search method for Zermelo's navigation problem"
 collection: publications
-permalink: /publication/2023-08-01-hybrid-search
+permalink: /publication/2023-07-01-hybrid-search
 excerpt: 'In this paper, we present a novel algorithm called the Hybrid Search algorithm to tackle the Zermelo's Navigation Problem.'
-date: 2023-08-01
+date: 2023-07-01
 venue: 'Unpublished'
 paperurl: 'https://scholar.google.com'
 ---
