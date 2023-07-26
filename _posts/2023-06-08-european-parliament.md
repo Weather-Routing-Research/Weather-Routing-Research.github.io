@@ -19,7 +19,7 @@ The presentation was made possible with the invaluable support of the BBVA Found
 
 For those interested, Daniel's presentation at the European Parliament can be viewed here: [https://youtu.be/T2VRDSczxVM](https://youtu.be/T2VRDSczxVM)
 
-[![Daniel Precioso's pitch at the European Parliament](https://img.youtube.com/vi/T2VRDSczxVM/0.jpg)](https://youtu.be/T2VRDSczxVM)
+<p align="center"><a href="https://youtu.be/T2VRDSczxVM"><img src="https://img.youtube.com/vi/T2VRDSczxVM/0.jpg" alt="Daniel Precioso's pitch at the European Parliament" width="80%"/></a></p>
 
 Together, through initiatives like Green Navigation, the shipping industry can pave the way towards a more sustainable and environmentally-conscious future.
 
