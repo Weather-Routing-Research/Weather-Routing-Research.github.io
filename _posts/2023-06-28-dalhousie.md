@@ -1,7 +1,7 @@
 ---
 title: "Our Academic Collaboration with Dalhousie University"
-date: 2023-07-28
-permalink: /posts/2023/07/28/dalhousie/
+date: 2023-06-28
+permalink: /posts/2023/06/28/dalhousie/
 excerpt: "We were recently joined by Dalhousie's researcher at the IE Tower, where we discussed weather routing."
 tags:
   - academy
