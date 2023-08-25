@@ -38,17 +38,16 @@ The goal is both to improve the state of the art algorithms for weather routing,
     text-align: center;
     max-width: 30%; /* Adjust the maximum width as needed */
     position: relative; /* Create a relative positioning context */
-    overflow: hidden; /* Hide overflowing content */
   }
 
   .news-item img {
     width: 100%; /* Set width to 100% to fill the container */
-    height: 0; /* Set initial height to 0 */
-    padding-bottom: 75%; /* Create a 4:3 aspect ratio (3/4 * 100) */
+    height: auto; /* Allow the image to adjust its height */
     object-fit: cover; /* Crop the image to fit the container */
+    border-radius: 5%; /* Add rounded corners to the featured image */
   }
 
-  /* Center the title */
+  /* Center the title over the image */
   .news-item h3 {
     position: absolute;
     top: 50%; /* Center vertically */
@@ -56,5 +55,6 @@ The goal is both to improve the state of the art algorithms for weather routing,
     transform: translate(-50%, -50%);
     background-color: rgba(255, 255, 255, 0.8); /* Add a semi-transparent background for readability */
     padding: 10px;
+    width: 80%; /* Adjust the title width as needed */
   }
 </style>
