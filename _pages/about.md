@@ -42,7 +42,8 @@ The goal is both to improve the state of the art algorithms for weather routing,
 
   .news-item img {
     width: 100%; /* Set width to 100% to fill the container */
-    height: auto; /* Allow the image to adjust its height */
+    height: 0; /* Set initial height to 0 */
+    padding-bottom: 56.25%; /* Create a 16:9 aspect ratio (9/16 * 100) */
     object-fit: cover; /* Crop the image to fit the container */
     border-radius: 5%; /* Add rounded corners to the featured image */
   }
@@ -58,3 +59,4 @@ The goal is both to improve the state of the art algorithms for weather routing,
     width: 80%; /* Adjust the title width as needed */
   }
 </style>
+
