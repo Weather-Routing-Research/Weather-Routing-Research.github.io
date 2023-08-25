@@ -45,7 +45,7 @@ The goal is both to improve the state of the art algorithms for weather routing,
     height: 0; /* Set initial height to 0 */
     padding-bottom: 56.25%; /* Create a 16:9 aspect ratio (9/16 * 100) */
     object-fit: cover; /* Crop the image to fit the container */
-    border-radius: 5%; /* Add rounded corners to the featured image */
+    border-radius: 10px; /* Add rounded borders */
   }
 
   /* Center the title over the image */
@@ -57,6 +57,6 @@ The goal is both to improve the state of the art algorithms for weather routing,
     background-color: rgba(255, 255, 255, 0.8); /* Add a semi-transparent background for readability */
     padding: 10px;
     width: 80%; /* Adjust the title width as needed */
+    border-radius: 10px; /* Add rounded borders to the title */
   }
 </style>
-
