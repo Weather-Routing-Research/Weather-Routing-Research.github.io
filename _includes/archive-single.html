@@ -21,7 +21,9 @@
         <!-- Add code to display the featured image -->
         {% if post.featured_image %}
         <div class="archive__item-featured-image">
-          <img src="{{ post.featured_image }}" alt="{{ title }}" style="max-width: 90%; height: auto; border-radius: 5%;">
+          <a href="{{ post.link }}">
+            <img src="{{ post.featured_image }}" alt="{{ title }}" style="max-width: 90%; height: auto; border-radius: 5%;">
+          </a>
         </div>
         {% endif %}
       </div>
