@@ -33,6 +33,13 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
+
+    <!-- Add code to display the featured image -->
+    {% if post.featured_image %}
+    <div class="archive__item-featured-image">
+      <img src="{{ post.featured_image }}" alt="{{ title }}">
+    </div>
+    {% endif %}
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>

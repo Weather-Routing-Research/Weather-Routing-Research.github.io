@@ -3,6 +3,7 @@ title: "Our Academic Collaboration with Dalhousie University"
 date: 2023-06-22
 permalink: /posts/2023/06/22/dalhousie/
 excerpt: "We were recently joined by Dalhousie's researcher at the IE Tower, where we discussed weather routing."
+featured-image: "https://weather-routing-research.github.io/images/2023-06-22-visit.JPEG"
 tags:
   - academy
 ---
