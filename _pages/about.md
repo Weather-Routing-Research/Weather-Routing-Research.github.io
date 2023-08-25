@@ -14,12 +14,15 @@ This task involves both reviewing the vast literature on this subject and possib
 
 The goal is both to improve the state of the art algorithms for weather routing, publishing our results in specialized scientific journals and to develop software tools that address this important industrial problem for shipping companies.
 
-<!-- Add this section to display the three latest news articles -->
+<!-- Add this section to display the three latest news articles horizontally -->
 <h2>Latest News</h2>
-{% for post in site.posts limit:3 %}
-  <div class="news-item">
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <p>{{ post.date | date: "%B %d, %Y" }}</p>
-    <p>{{ post.excerpt }}</p>
-  </div>
-{% endfor %}
+<div class="latest-news-container">
+  {% for post in site.posts limit:3 %}
+    <div class="news-item">
+      <a href="{{ post.url }}">
+        <img src="{{ post.featured_image }}" alt="{{ post.title }}">
+        <h3>{{ post.title }}</h3>
+      </a>
+    </div>
+  {% endfor %}
+</div>
