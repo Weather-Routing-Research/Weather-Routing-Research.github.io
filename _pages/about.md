@@ -20,9 +20,27 @@ The goal is both to improve the state of the art algorithms for weather routing,
   {% for post in site.posts limit:3 %}
     <div class="news-item">
       <a href="{{ post.url }}">
-        <img src="{{ post.featured_image }}" alt="{{ post.title }}">
+        <img src="{{ post.featured_image }}" alt="{{ post.title }}" style="max-width: 100%; height: auto;">
         <h3>{{ post.title }}</h3>
       </a>
     </div>
   {% endfor %}
 </div>
+
+<style>
+  /* Add CSS styles to adjust the layout */
+  .latest-news-container {
+    display: flex;
+    justify-content: space-between; /* Space evenly between items */
+  }
+
+  .news-item {
+    text-align: center;
+    max-width: 30%; /* Adjust the maximum width as needed */
+  }
+
+  .news-item img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
