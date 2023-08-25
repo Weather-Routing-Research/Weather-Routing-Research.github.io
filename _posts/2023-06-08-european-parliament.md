@@ -3,6 +3,7 @@ title: "Weather Routing at the European Parliament"
 date: 2023-06-08
 permalink: /posts/2023/06/08/european-parliament/
 excerpt: "Calling for collaboration: our mission to create a more sustainable shipping industry."
+featured_image: "https://weather-routing-research.github.io/images/2023-06-07-pitch.png"
 tags:
   - entrepeneurship
 ---
