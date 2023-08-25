@@ -86,12 +86,12 @@
     margin-top: 10px; /* Adjust the top margin as needed */
     margin-bottom: 10px; /* Adjust the bottom margin as needed */
     display: flex; /* Use flexbox for alignment */
-    align-items: center; /* Center items vertically within each post */
+    align-items: stretch; /* Stretch both blocks to the same height */
   }
 
   /* Ensure consistent height for featured images */
   .archive__item-featured-image {
-    max-height: 300px; /* Set the maximum height for the featured image */
+    max-height: 250px; /* Set the maximum height for the featured image */
     overflow: hidden; /* Hide any image overflow beyond the specified height */
   }
 
@@ -112,7 +112,7 @@
   .two-column-layout {
     display: flex;
     width: 100%;
-    gap: 10px; /* Add space between the two columns */
+    gap: 20px; /* Add space between the two columns */
   }
 
   /* Define the width for the column containing the featured image */
