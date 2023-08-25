@@ -22,7 +22,7 @@
         {% if post.featured_image %}
         <div class="archive__item-featured-image">
           <a href="{{ post.link }}">
-            <img src="{{ post.featured_image }}" alt="{{ title }}" style="max-width: auto; height: 300px; border-radius: 5%;">
+            <img src="{{ post.featured_image }}" alt="{{ title }}" style="max-width: 90%; height: auto; border-radius: 5%;">
           </a>
         </div>
         {% endif %}
@@ -114,4 +114,5 @@
   /* Ensure consistent height for content */
   .archive__item-content {
     flex: 1; /* Allow the content to grow to fill available space */
+  }
 </style>
