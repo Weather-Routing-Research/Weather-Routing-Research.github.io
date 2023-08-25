@@ -100,6 +100,17 @@
   .archive__item {
     margin-top: 10px;
     margin-bottom: 10px; /* Adjust the value to control the amount of vertical space */
+    display: flex; /* Use flexbox for alignment */
+    align-items: flex-start; /* Align items at the top of each post */
+  }
+
+  /* Ensure consistent height for featured images */
+  .archive__item-featured-image img {
+    max-height: 100%; /* Make sure the image doesn't exceed the height of its container */
+  }
+
+  /* Ensure consistent height for content */
+  .archive__item-content {
+    flex: 1; /* Allow the content to grow to fill available space */
   }
 </style>
-
