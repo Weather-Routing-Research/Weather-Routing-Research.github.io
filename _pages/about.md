@@ -30,7 +30,6 @@ The goal is both to improve the state of the art algorithms for weather routing,
   {% endfor %}
 </ul>
 
-
 <!-- Add this section to display the three latest news articles horizontally -->
 <h2>Latest News</h2>
 <div class="latest-news-container">
