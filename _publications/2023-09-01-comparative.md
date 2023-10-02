@@ -11,6 +11,6 @@ featured_image: "https://weather-routing-research.github.io/images/work-in-progr
 ---
 (We are currently working on this paper.)
 
-[Download paper here](https://scholar.google.com)
+[Download paper here]({{ page.paperurl }})
 
 Recommended citation: Precioso, Daniel et al. (2023). "A Comparative Study of optimisation Methods for Weather Routing."
