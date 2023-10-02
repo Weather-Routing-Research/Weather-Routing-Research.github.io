@@ -44,35 +44,44 @@ The goal is both to improve the state of the art algorithms for weather routing,
 </div>
 
 <style>
-  /* Add CSS styles to adjust the layout */
+  /* Adjusts the layout of the news container */
   .latest-news-container {
     display: flex;
     justify-content: space-between; /* Space evenly between items */
   }
 
+  /* Style specifications for each news item */
   .news-item {
     text-align: center;
     max-width: 30%; /* Adjust the maximum width as needed */
     position: relative; /* Create a relative positioning context */
+    overflow: hidden; /* Ensure nothing spills out of the box */
   }
 
+  /* Styles for the image of the news item */
   .news-item img {
-    width: 100%; /* Set width to 100% to fill the container */
-    height: 0; /* Set initial height to 0 */
-    padding-bottom: 56.25%; /* Create a 16:9 aspect ratio (9/16 * 100) */
+    width: 100%;
+    display: block; /* Removes any gaps below the image */
     object-fit: cover; /* Crop the image to fit the container */
     border-radius: 10px; /* Add rounded borders */
+    transition: transform 0.3s; /* Smooth zoom on hover for a more interactive effect */
+  }
+
+  /* Add a zoom effect when hovering over the news item */
+  .news-item:hover img {
+    transform: scale(1.05); /* Slight zoom effect on hover */
   }
 
   /* Center the title over the image */
   .news-item h3 {
     position: absolute;
-    top: 50%; /* Center vertically */
-    left: 50%; /* Center horizontally */
-    transform: translate(-50%, -50%);
-    background-color: rgba(255, 255, 255, 0.8); /* Add a semi-transparent background for readability */
-    padding: 10px;
-    width: 80%; /* Adjust the title width as needed */
-    border-radius: 10px; /* Add rounded borders to the title */
+    bottom: 0; /* Position the title at the bottom of the image */
+    width: 100%; /* Use the full width of the parent */
+    background-color: rgba(0, 0, 255, 0.6); /* Blue background with 60% opacity for readability */
+    color: white; /* Text color set to white for visibility against the blue */
+    padding: 10px 0; /* Padding at top and bottom */
+    margin: 0; /* Remove any default margins */
+    border-radius: 0 0 10px 10px; /* Rounded borders only at the bottom of the title */
+    text-align: center; /* Center align the text */
   }
 </style>
