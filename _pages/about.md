@@ -16,20 +16,19 @@ The goal is both to improve the state of the art algorithms for weather routing,
 
 <!-- Add this section to display the five latest papers in bulletpoints -->
 <h2>Latest Papers</h2>
-
-<div class="latest-papers-container">
+<ul class="latest-articles-container">
   {% for paper in site.publications limit:5 %}
-    - [{{ paper.title }}]({{ paper.url }})
+    <li><a href="{{ paper.url }}">{{ paper.title }}</a></li>
   {% endfor %}
-</div>
+</ul>
 
 <!-- Add this section to display the five latest talks in bulletpoints -->
 <h2>Latest Talks</h2>
-<div class="latest-talks-container">
+<ul class="latest-talks-container">
   {% for talk in site.talks limit:5 %}
-    - [{{ talk.title }}]({{ talk.url }})
+    <li><a href="{{ talk.url }}">{{ talk.title }}</a></li>
   {% endfor %}
-</div>
+</ul>
 
 
 <!-- Add this section to display the three latest news articles horizontally -->
