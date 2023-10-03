@@ -13,15 +13,7 @@ featured_image: "https://weather-routing-research.github.io/images/2023-08-04-pa
 
 ### Abstract
 
-We introduce the **Hybrid Search (HS) algorithm**, an innovative approach to tackle Zermelo's Navigation Problem. An extension of the Ferraro-Martín de Diego-Almagro method, this algorithm facilitates exploration for the global optimum, especially in scenarios with complex vector fields abundant with locally optimal trajectories.
-
-Key features include:
-
-- Applicability in both **Euclidean and spherical spaces**.
-- Utilization of a heuristic that encourages forward vessel movement within a predetermined search cone focused on the destination.
-- Enhanced **efficiency** and **obstacle avoidance** capabilities, making it ideal for real-world scenarios.
-
-Performance assessments on synthetic vector fields and actual ocean currents have been carried out, affirming the algorithm's effectiveness and superior performance.
+In this paper, we present a novel algorithm called the Hybrid Search algorithm to tackle the Zermelo's Navigation Problem. This method can be regarded as an extension of the recent Ferraro-Martín de Diego-Almagro to allow for further exploration in search for the global optimum, in situations of complex vector fields where many locally optimal trajectories exist. Our algorithm is designed to work in both Euclidean and spherical spaces and utilizes a heuristic that allows the vessel to move forward while remaining within a predetermined search cone centred around the destination. This approach not only improves efficiency but also includes obstacle avoidance, making it well-suited for real-world applications. We evaluate the performance of the HS algorithm on synthetic vector fields and real ocean currents, demonstrating its effectiveness and performance.
 
 [**Download the full paper here**]({{ page.paperurl }})
 
