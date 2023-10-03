@@ -3,7 +3,7 @@
 title: "Optimisation of Ship Form Based on Seakeeping Behaviour Using Machine Learning"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-marine2023-opt-ship
+permalink: /talks/2023-06-29-marine-pablo
 venue: "10th International Conference on Computational Methods in Marine Engineering (MARINE 2023)"
 date: 2023-06-29
 location: "Madrid, Spain"
