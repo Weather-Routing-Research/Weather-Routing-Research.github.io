@@ -4,9 +4,9 @@ title: "Parallel Iterative Methods for Variational Integration and Related Probl
 collection: talks
 type: "Talk"
 permalink: /talks/2023-06-14-focm-rodrigo
-venue: "Geometric Integration and Computational Mechanics Seminar"
+venue: "Foundations of Computational Mathematics"
 date: 2023-06-14
-location: "Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany"
+location: "Paris, France"
 ---
 
 Rodrigo Takuro Sato Martín de Almagro from the Institute of Applied Dynamics at Friedrich-Alexander-Universität Erlangen-Nürnberg presents our research on discrete variational methods, which have demonstrated outstanding performance in numerical simulations of various mechanical systems. In this talk, an iterative procedure is introduced to solve discrete variational equations for boundary value problems. Specifically, the discussion delves into a parallelization strategy optimized for multicore CPUs and GPUs.
