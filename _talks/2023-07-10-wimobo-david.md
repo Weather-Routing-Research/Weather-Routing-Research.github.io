@@ -12,4 +12,8 @@ In this talk, David Gómez-Ullate provided a comprehensive overview of the poten
 
 Conversely, intelligent utilization of climatic factors can achieve significant savings with nearly zero investment and much quicker deployment. The challenge of finding optimal routes for maritime transportation is complex and multidisciplinary, involving mathematicians, computer scientists, meteorologists, naval engineers, economists, and data scientists. We provided a brief introduction to this problem, transferring detailed explanations of the mathematical approach to some of the talks contributed in the session.
 
+You can watch the talk here: [video](https://www.youtube.com/watch?v=i6BFsdg-AVw&t=1639s).
+
+<p align="center"><a href="https://www.youtube.com/watch?v=i6BFsdg-AVw&t=1639s"><img src="https://weather-routing-research.github.io/images/2023-07-10-david.JPEG" alt="David's presentation at the Environmental Monitoring conference" width="50%"/></a></p>
+
 The research for this project is funded by the BBVA Foundation.

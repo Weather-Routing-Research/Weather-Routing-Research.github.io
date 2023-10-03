@@ -12,4 +12,8 @@ Planning vessel routes over long distances can lead to drastic savings in transp
 
 Our research highlights the immense potential of differentiable route parametrization and evolutionary optimization in achieving efficient maritime routing. Join us as we explore the cutting-edge methods that can revolutionize the navigation of vessels, contributing to significant improvements in transportation efficiency and environmental sustainability.
 
+You can watch the talk here: [video](https://www.youtube.com/watch?v=i6BFsdg-AVw&t=13610s).
+
+<p align="center"><a href="https://www.youtube.com/watch?v=i6BFsdg-AVw&t=13610s"><img src="https://weather-routing-research.github.io/images/2023-07-10-rafael.JPEG" alt="Rafael's presentation at the Environmental Monitoring conference" width="80%"/></a></p>
+
 The research for this project is funded by the BBVA Foundation.

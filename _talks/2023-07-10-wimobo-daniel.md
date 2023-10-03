@@ -12,4 +12,8 @@ In this talk, Daniel Precioso explored the application of mathematics in weather
 
 Attendees gained insights into how mathematics contributes to enhancing ship navigation, improving fuel efficiency, and supporting decision-making in maritime transport.
 
+You can watch the talk here: [video](https://www.youtube.com/watch?v=i6BFsdg-AVw&t=12275s).
+
+<p align="center"><a href="https://www.youtube.com/watch?v=i6BFsdg-AVw&t=12275s"><img src="https://daniprec.github.io/images/230710_wimobo.JPEG" alt="Daniel's presentation at the Environmental Monitoring conference" width="50%"/></a></p>
+
 The research for this project is funded by the BBVA Foundation.
