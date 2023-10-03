@@ -3,7 +3,7 @@ title: "Celebrating a New Book Chapter Publication"
 date: 2023-09-21
 permalink: /posts/2023-09-21-elena-publication
 excerpt: "Dr. Elena Fernández Aréizaga's new chapter in the esteemed 'International Series in Operations Research & Management Science' mirrors our project's goal for greener maritime transport."
-featured_image: "https://weather-routing-research.github.io/images/2023-09-21-elena-publication.png"
+featured_image: "https://weather-routing-research.github.io/images/2023-09-21-elena.png"
 tags:
   - publication
   - operations research
