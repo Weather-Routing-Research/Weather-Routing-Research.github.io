@@ -1,16 +1,22 @@
 ---
-title: "A Comparative Study of optimisation Methods for Weather Routing"
+
+title: "A Comparative Study of Optimisation Methods for Weather Routing"
 collection: publications
 permalink: /publication/2023-09-01-comparative
-excerpt: '(We are currently working on this paper.)'
+excerpt: 'An in-depth study comparing various optimisation methods for weather routing is underway.'
 date: 2023-09-01
 venue: 'Unpublished'
 paperurl: 'https://scholar.google.com'
 featured_image: "https://weather-routing-research.github.io/images/work-in-progress.jpg"
 
 ---
-(We are currently working on this paper.)
 
-[Download paper here]({{ page.paperurl }})
+### Overview
 
-Recommended citation: Precioso, Daniel et al. (2023). "A Comparative Study of optimisation Methods for Weather Routing."
+Our research team is now involved in an exciting project: **A Comparative Study of Optimisation Methods for Weather Routing**. The aim is to provide a comprehensive comparison of the various optimisation methods available for weather routing, showcasing their strengths, weaknesses, and best use cases.
+
+![Work in Progress](https://weather-routing-research.github.io/images/work-in-progress.jpg)
+
+**Stay tuned!** We will provide updates as we progress our research.
+
+---
