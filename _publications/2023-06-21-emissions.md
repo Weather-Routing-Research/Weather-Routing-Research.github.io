@@ -35,5 +35,3 @@ The cruise shipping industry has a steadfast commitment to the environmentally s
   _Naval Architecture Technology Department_  
   Universidad Politécnica de Cartagena  
   30205 Cartagena, Spain
-
----

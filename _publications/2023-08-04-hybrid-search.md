@@ -35,5 +35,3 @@ In this paper, we present a novel algorithm called the Hybrid Search algorithm t
 
 - **David Gómez-Ullate**  
   _IE University_
-
----

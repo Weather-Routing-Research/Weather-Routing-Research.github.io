@@ -18,5 +18,3 @@ Our research team is now involved in an exciting project: **A Comparative Study 
 ![Work in Progress](https://weather-routing-research.github.io/images/work-in-progress.jpg)
 
 **Stay tuned!** We will provide updates as we progress our research.
-
----
