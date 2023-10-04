@@ -14,6 +14,6 @@ Our research highlights the immense potential of differentiable route parametriz
 
 You can watch the talk here: [video](https://www.youtube.com/watch?v=i6BFsdg-AVw&t=13610s).
 
-<p align="center"><a href="https://www.youtube.com/watch?v=i6BFsdg-AVw&t=13610s"><img src="https://weather-routing-research.github.io/images/2023-07-10-rafael.JPEG" alt="Rafael's presentation at the Environmental Monitoring conference" width="80%"/></a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=i6BFsdg-AVw&t=13610s"><img src="https://weathernavigation.com/images/2023-07-10-rafael.JPEG" alt="Rafael's presentation at the Environmental Monitoring conference" width="80%"/></a></p>
 
 The research for this project is funded by the BBVA Foundation.

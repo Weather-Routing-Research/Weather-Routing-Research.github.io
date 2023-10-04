@@ -7,7 +7,7 @@ excerpt: "This work explores the use of AI for predicting seakeeping behavior."
 date: 2023-08-01
 venue: 'Ingeniería Naval'
 paperurl: 'https://dialnet.unirioja.es/servlet/articulo?codigo=9066136'
-featured_image: "https://weather-routing-research.github.io/images/2023-08-01-seakeeping-ai.png"
+featured_image: "https://weathernavigation.com/images/2023-08-01-seakeeping-ai.png"
 
 ---
 

@@ -7,7 +7,7 @@ excerpt: "A novel Hybrid Search algorithm is introduced to address Zermelo's Nav
 date: 2023-08-04
 venue: 'arXiv'
 paperurl: 'https://doi.org/10.48550/arXiv.2308.02434'
-featured_image: "https://weather-routing-research.github.io/images/2023-08-04-paper.jpg"
+featured_image: "https://weathernavigation.com/images/2023-08-04-paper.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ excerpt: 'An in-depth study comparing various optimisation methods for weather r
 date: 2023-09-01
 venue: 'Unpublished'
 paperurl: 'https://scholar.google.com'
-featured_image: "https://weather-routing-research.github.io/images/work-in-progress.jpg"
+featured_image: "https://weathernavigation.com/images/work-in-progress.jpg"
 
 ---
 
@@ -15,6 +15,6 @@ featured_image: "https://weather-routing-research.github.io/images/work-in-progr
 
 Our research team is now involved in an exciting project: **A Comparative Study of Optimisation Methods for Weather Routing**. The aim is to provide a comprehensive comparison of the various optimisation methods available for weather routing, showcasing their strengths, weaknesses, and best use cases.
 
-![Work in Progress](https://weather-routing-research.github.io/images/work-in-progress.jpg)
+![Work in Progress](https://weathernavigation.com/images/work-in-progress.jpg)
 
 **Stay tuned!** We will provide updates as we progress our research.

@@ -1,1 +1,1 @@
-[weather-routing-research.github.io](https://weather-routing-research.github.io)
+[weathernavigation.com](https://weathernavigation.com)
