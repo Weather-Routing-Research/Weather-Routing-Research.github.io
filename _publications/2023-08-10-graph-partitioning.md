@@ -3,7 +3,7 @@
 title: "Connected Graph Partitioning with Aggregated and Non-aggregated Gap Objective Functions"
 collection: publications
 permalink: /publication/2023-08-10-graph-partitioning
-excerpt: "This research introduces the notion of aggregated gap in graph partitioning, expanding on the traditional gap objectives. The team explores new connected partitioning problems, proposing mathematical formulations and delivering NP-hardness results for them."
+excerpt: "This research introduces the notion of aggregated gap in graph partitioning, expanding on the traditional gap objectives."
 date: 2023-08-10
 venue: "Networks"
 paperurl: "https://doi.org/10.1002/net.22181"

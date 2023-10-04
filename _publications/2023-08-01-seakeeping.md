@@ -3,7 +3,7 @@
 title: "Optimization of Seakeeping Behavior of Fishing Ships by Artificial Neural Networks"
 collection: publications
 permalink: /publication/2023-ingenieria-naval-1025
-excerpt: 'La evaluación del comportamiento en el mar es crucial en la explotación de buques. Este trabajo explora la utilización de técnicas de IA en la predicción del comportamiento en el mar.'
+excerpt: "This work explores the use of AI for predicting seakeeping behavior."
 date: 2023-08-01
 venue: 'Ingeniería Naval'
 paperurl: 'https://dialnet.unirioja.es/servlet/articulo?codigo=9066136'
