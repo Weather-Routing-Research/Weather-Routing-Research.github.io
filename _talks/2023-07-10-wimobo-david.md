@@ -15,6 +15,6 @@ Conversely, intelligent utilization of climatic factors can achieve significant 
 
 You can watch the talk here: [video](https://www.youtube.com/watch?v=i6BFsdg-AVw&t=1639s).
 
-<p align="center"><a href="https://www.youtube.com/watch?v=i6BFsdg-AVw&t=1639s"><img src="https://weathernavigation.com/images/2023-07-10-david.JPEG" alt="David's presentation at the Environmental Monitoring conference" width="50%"/></a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=i6BFsdg-AVw&t=1639s"><img src="{{ page.featured_image }}" alt="David's presentation at the Environmental Monitoring conference" width="50%"/></a></p>
 
 The research for this project is funded by the BBVA Foundation.
