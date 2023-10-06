@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Weather Routing Research"
+title                    : "Weather Navigation"
 title_separator          : "-"
-name                     : &name "Weather Routing Research"
+name                     : &name "Weather Navigation"
 description              : &description "personal description"
 url                      : https://weathernavigation.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Weather Routing Research"
+  name             : "Weather Navigation"
   avatar           : "bbva.png"
   bio              : "Mathematical optimization for a more efficient, safer and decarbonized maritime transport"
   location         : "Madrid, Spain"
