@@ -7,6 +7,7 @@ venue: "Environmental Monitoring: An Exploratory Workshop, Spanish Royal Academy
 date: 2023-07-10
 location: "Madrid, Spain"
 featured_image: "https://daniprec.github.io/images/230710_wimobo.JPEG"
+excerpt: "Daniel Precioso explores the application of mathematics in weather routing, with a focus on the Zermelo Navigation Problem (ZNP)."
 ---
 
 In this talk, Daniel Precioso explored the application of mathematics in weather routing, focusing specifically on the Zermelo Navigation Problem (ZNP) and its practical implications. Weather routing utilizes mathematical models and meteorological data to optimize ship routes, while ZNP addresses the challenge of optimizing ships' travel time considering perturbations in vector fields. We presented the novel Hybrid Search (HS) algorithm, which combines ZNP with an efficient route optimization approach developed by Ferraro-Martin de Diego-Sato de Almagro.

@@ -7,6 +7,7 @@ venue: "Environmental Monitoring: An Exploratory Workshop, Spanish Royal Academy
 date: 2023-07-10
 location: "Madrid, Spain"
 featured_image: "https://weathernavigation.com/images/2023-07-10-david.JPEG"
+excerpt: "David Gómez-Ullate provided a comprehensive overview of the potential benefits and existing challenges of weather routing systems for maritime navigation."
 ---
 
 In this talk, David Gómez-Ullate provided a comprehensive overview of the potential benefits and existing challenges of weather routing systems for maritime navigation. While sea transportation is the most efficient way to move goods worldwide, its exponential increase in volume in recent decades poses significant environmental challenges. Maritime shipping alone accounts for 3% of global greenhouse gas emissions, prompting the International Maritime Organization to impose drastic decarbonization measures on this sector. As a response, considerable research is focusing on alternative fuels (e.g., green hydrogen) and more efficient propulsion system designs. These measures require substantial investment and will yield results in the medium to long term.
