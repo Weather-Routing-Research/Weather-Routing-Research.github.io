@@ -7,6 +7,7 @@ permalink: /talks/2022-12-13-rsme-sebastian
 venue: "RSME - UMA"
 date: 2022-12-13
 location: "Ronda, Spain"
+featured_image: "http://www.rsmeuma2022.uma.es/wp-content/uploads/2022/02/ronda-3.jpg"
 ---
 
 Sebastián Ferraro from Universidad Nacional del Sur & CONICET presents research on discrete variational methods, which have showcased exemplary performance in numerical simulations of mechanical systems. The presentation elaborates on an iterative procedure tailored for the resolution of variational equations with boundary conditions. These equations correspond to arbitrary order discrete Lagrangians. Central to this procedure is a parallelization strategy that taps into the potentials of GPUs (graphics cards) or multicore CPUs.

@@ -7,6 +7,7 @@ permalink: /talks/2023-06-29-marine-pablo
 venue: "10th International Conference on Computational Methods in Marine Engineering (MARINE 2023)"
 date: 2023-06-29
 location: "Madrid, Spain"
+featured_image: "https://congressarchive.cimne.com/marine_2023/assets/slidermarine2023.jpg"
 ---
 
 In this talk, presented by Pablo Romero-Tello and team, the central topic was the analysis of seakeeping behaviour, the study of the movements and forces produced by waves in marine systems. This analysis is of paramount importance in naval design as key parameters like the operability of the ship, passenger comfort, propulsion performance, manoeuvrability, and the operability of equipment and systems heavily depend on it.

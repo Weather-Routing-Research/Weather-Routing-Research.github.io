@@ -7,6 +7,7 @@ permalink: /talks/2023-06-08-monteiro-sebastian
 venue: "XVII Congreso Dr. Antonio Monteiro"
 date: 2023-06-08
 location: "Bahía Blanca, Argentina"
+featured_image: "https://www.matematica.uns.edu.ar/xviicm/images/aviso_lma.png"
 ---
 
 Sebastián Ferraro from the Department of Mathematics at Universidad Nacional del Sur (UNS) – CONICET, David Martín de Diego from Instituto de Ciencias Matemáticas, Spain, and Rodrigo T. Sato Martín de Almagro from the Institute of Applied Dynamics at Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany, present their joint research on resolving discrete variational equations with boundary conditions.
