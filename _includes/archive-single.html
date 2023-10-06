@@ -80,45 +80,5 @@
   </article>
 </div>
 
-<style>
-  /* Define the layout for each post item */
-  .archive__item {
-    margin-top: 10px; /* Adjust the top margin as needed */
-    margin-bottom: 10px; /* Adjust the bottom margin as needed */
-    display: flex; /* Use flexbox for alignment */
-    align-items: center; /* Center items vertically within each post */
-    height: 300px; /* Set a fixed height for each post */
-    overflow: hidden; /* Hide any content or image overflow */
-  }
-
-  /* Ensure consistent height for featured images */
-  .archive__item-featured-image img {
-    max-width: 100%; /* Ensure the image scales proportionally */
-    height: 100%; /* Set a fixed height of 100% to fill the post height */
-    display: block; /* Remove extra space below the image */
-    margin: 0 auto; /* Center the image horizontally */
-    border-radius: 5%; /* Add rounded corners to the featured image */
-  }
-
-  /* Ensure content takes up remaining space in the post */
-  .archive__item-content {
-    flex: 1; /* Allow the content to grow to fill available space */
-  }
-
-  /* Additional styles for the two-column layout */
-  .two-column-layout {
-    display: flex;
-    width: 100%;
-    gap: 20px; /* Add space between the two columns */
-  }
-
-  /* Define the width for the column containing the featured image */
-  .column-40 {
-    flex: 40%; /* Adjust the width as needed (e.g., 40% for image) */
-  }
-
-  /* Define the width for the column containing the content */
-  .column-60 {
-    flex: 60%; /* Adjust the width as needed (e.g., 60% for content) */
-  }
-</style>
+<!-- My external stylesheet -->
+<link rel="stylesheet" href="{{ base_path }}/assets/css/blog.css">
