@@ -7,7 +7,7 @@ excerpt: "This study analyzes the environmental impact of cruise ship emissions 
 date: 2023-06-21
 venue: "Applied Sciences"
 paperurl: "https://doi.org/10.3390/app13148149"
-featured_image: "https://weathernavigation.com/images/2023-06-21-emissions.png"
+featured_image: "https://www.mdpi.com/applsci/applsci-13-08149/article_deploy/html/images/applsci-13-08149-g005b.png"
 
 ---
 

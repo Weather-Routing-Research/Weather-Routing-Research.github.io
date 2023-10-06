@@ -7,7 +7,7 @@ excerpt: "This research introduces the notion of aggregated gap in graph partiti
 date: 2023-08-10
 venue: "Networks"
 paperurl: "https://doi.org/10.1002/net.22181"
-featured_image: "https://weathernavigation.com/images/2023-08-10-graph-partitioning.png"
+featured_image: "https://onlinelibrary.wiley.com/cms/asset/a736d24f-d9f6-48c1-9a12-ae0cf8540526/net22181-fig-0003-m.jpg"
 
 ---
 
