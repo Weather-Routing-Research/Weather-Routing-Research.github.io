@@ -7,7 +7,7 @@ permalink: /talks/2022-12-13-rsme-sebastian
 venue: "RSME - UMA"
 date: 2022-12-13
 location: "Ronda, Spain"
-featured_image: "http://www.rsmeuma2022.uma.es/wp-content/uploads/2022/02/ronda-3.jpg"
+featured_image: "https://weathernavigation.com/images/2022-12-13-ronda.jpg"
 excerpt: "Sebastián Ferraro delves into discrete variational methods, presenting a GPU-optimized parallelization strategy and exploring applications in astrodynamics, like the Zermelo navigation problem."
 ---
 
