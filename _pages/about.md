@@ -61,8 +61,9 @@ The goal is both to improve the state of the art algorithms for weather routing,
   {% for permalink in trending_posts %}
     {% assign post = site.posts | where: "permalink", permalink | first %}
     <div class="news-item" style="position: relative;">
+      <!-- Add logo in top right corner when available-->
       {% if post.logo %}
-        <img src="{{ post.logo }}" alt="Post logo" style="position: absolute; top: 0; right: 0;">
+        <img src="{{ post.logo }}" alt="Post logo" style="position: absolute; top: 0; right: 0; max_width: 10%; height: auto;">
       {% endif %}
 
       <a href="{{ post.url }}">
