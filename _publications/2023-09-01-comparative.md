@@ -2,7 +2,7 @@
 
 title: "A Comparative Study of Optimisation Methods for Weather Routing"
 collection: publications
-permalink: /publication/2023/comparative
+permalink: /publication/2023/comparative/
 excerpt: 'An in-depth study comparing various optimisation methods for weather routing is underway.'
 date: 2023-09-01
 venue: 'Unpublished'

@@ -2,7 +2,7 @@
 
 title: "Hybrid Search Method for Zermelo's Navigation Problem"
 collection: publications
-permalink: /publication/2023/hybrid-search
+permalink: /publication/2023/hybrid-search/
 excerpt: "A novel Hybrid Search algorithm is introduced to address Zermelo's Navigation Problem, demonstrating improved efficiency and real-world applicability."
 date: 2023-08-04
 venue: 'arXiv'

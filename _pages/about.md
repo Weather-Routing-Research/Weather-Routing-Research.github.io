@@ -29,12 +29,12 @@ The goal is both to improve the state of the art algorithms for weather routing,
 -->
 
 <!-- Add this section to display the chosen papers in bulletpoints -->
-{% assign trending_posts = "/posts/2023/06/08/european-parliament/,/posts/2023/07/10/wimobo/,/posts/2023/08/15/halifax-research/" | split: "," %}
+{% assign trending_papers = "/publication/2023/comparative/,/publication/2023/hybrid-search/,/publication/2023/emissions/" | split: "," %}
 
 <h2>Latest Papers</h2>
 <ul class="latest-articles-container">
-  {% assign sorted_papers = site.publications | sort: 'date' | reverse %}
-  {% for paper in sorted_papers limit:3 %}
+  {% for permalink in trending_papers %}
+    {% assign paper = site.publications | where: "permalink", permalink | first %}
     <li><a href="{{ paper.url }}">{{ paper.title }}</a></li>
   {% endfor %}
 </ul>
