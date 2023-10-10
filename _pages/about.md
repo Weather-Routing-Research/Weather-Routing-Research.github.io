@@ -60,7 +60,11 @@ The goal is both to improve the state of the art algorithms for weather routing,
 <div class="latest-news-container">
   {% for permalink in trending_posts %}
     {% assign post = site.posts | where: "permalink", permalink | first %}
-    <div class="news-item">
+    <div class="news-item" style="position: relative;">
+      {% if post.logo %}
+        <img src="{{ post.logo }}" alt="Post logo" style="position: absolute; top: 0; right: 0;">
+      {% endif %}
+
       <a href="{{ post.url }}">
         <img src="{{ post.featured_image }}" alt="{{ post.title }}" style="max-width: 100%; height: auto;">
         <h3>
@@ -74,6 +78,5 @@ The goal is both to improve the state of the art algorithms for weather routing,
     </div>
   {% endfor %}
 </div>
-
 
 <a href="https://weathernavigation.com/news/" class="button">See All News</a>
