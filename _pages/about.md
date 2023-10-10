@@ -55,7 +55,7 @@ The goal is both to improve the state of the art algorithms for weather routing,
 {% assign trending_posts = "/posts/2023/06/08/european-parliament/,/posts/2023/07/10/wimobo/,/posts/2023/08/15/halifax-research/" | split: "," %}
 
 <h2>Trending News</h2>
-<div class="trending-news-container">
+<div class="latest-news-container">
   {% for permalink in trending_posts %}
     {% assign post = site.posts | where: "permalink", permalink | first %}
     <div class="news-item">
