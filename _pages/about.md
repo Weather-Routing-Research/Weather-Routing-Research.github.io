@@ -17,20 +17,22 @@ The goal is both to improve the state of the art algorithms for weather routing,
 <!-- Style -->
 {% include head.html %}
 
-<!-- Add this section to display the five latest papers in bulletpoints -->
+<!-- Add this section to display the latest papers in bulletpoints -->
 <h2>Latest Papers</h2>
 <ul class="latest-articles-container">
-  {% for paper in site.publications limit:3 %}
+  {% assign sorted_papers = site.publications | sort: 'date' | reverse %}
+  {% for paper in sorted_papers limit:3 %}
     <li><a href="{{ paper.url }}">{{ paper.title }}</a></li>
   {% endfor %}
 </ul>
 
 <a href="https://weathernavigation.com/publications/" class="button">See All Publications</a>
 
-<!-- Add this section to display the five latest talks in bulletpoints -->
+<!-- Add this section to display the latest talks in bulletpoints -->
 <h2>Latest Talks</h2>
 <ul class="latest-talks-container">
-  {% for talk in site.talks limit:3 %}
+  {% assign sorted_talks = site.talks | sort: 'date' | reverse %}
+  {% for talk in sorted_talks limit:3 %}
     <li><a href="{{ talk.url }}">{{ talk.title }}</a></li>
   {% endfor %}
 </ul>
