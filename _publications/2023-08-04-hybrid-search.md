@@ -24,13 +24,13 @@ In this paper, we present a novel algorithm called the Hybrid Search algorithm t
 - **Daniel Precioso**  
   _IE University_
 
-- **Robert Milson**
+- **Robert Milson**  
   _Dalhousie University_
 
-- **Louis Bu**
+- **Louis Bu**  
   _Dalhousie University_
 
-- **Yvonne Menchions**
+- **Yvonne Menchions**  
   _Dalhousie University_
 
 - **David Gómez-Ullate**  
