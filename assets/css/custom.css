@@ -1,3 +1,10 @@
+/* Logo at the top of the page */
+.navbar-logo img {
+  height: 40px; /* Adjust the size as needed */
+  width: auto;
+  margin-left: auto; /* This pushes the logo to the right if your navbar is a flex container */
+}
+
 /* Adjusts the layout of the news container */
 .latest-news-container {
 display: flex;
