@@ -61,7 +61,13 @@ The goal is both to improve the state of the art algorithms for weather routing,
     <div class="news-item">
       <a href="{{ post.url }}">
         <img src="{{ post.featured_image }}" alt="{{ post.title }}" style="max-width: 100%; height: auto;">
-        <h3>{{ post.title }}</h3>
+        <h3>
+          {% if post.abbreviated_title %}
+            {{ post.abbreviated_title }}
+          {% else %}
+            {{ post.title }}
+          {% endif %}
+        </h3>
       </a>
     </div>
   {% endfor %}
