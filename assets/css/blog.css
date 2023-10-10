@@ -88,7 +88,7 @@ flex: 60%; /* Adjust the width as needed (e.g., 60% for content) */
 }
 
 /* Button */
-.button {
+a.button {
   background-color: #006EC1;
   border: none;
   color: white;
@@ -104,7 +104,7 @@ flex: 60%; /* Adjust the width as needed (e.g., 60% for content) */
   text-decoration: none;  /* Removes underline */
 }
 
-.button:hover {
+a.button:hover {
   background-color: #009EE5; /* Slightly lighter color for hover effect */
   text-decoration: none;  /* Ensures underline is removed during hover as well */
 }
