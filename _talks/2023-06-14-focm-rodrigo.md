@@ -3,7 +3,7 @@
 title: "Parallel Iterative Methods for Variational Integration and Related Problems"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-06-14-focm-rodrigo
+permalink: /talks/2023/focm
 venue: "Foundations of Computational Mathematics"
 date: 2023-06-14
 location: "Paris, France"

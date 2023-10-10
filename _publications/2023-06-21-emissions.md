@@ -2,7 +2,7 @@
 
 title: "Forecast Analysis of Pollutant Emissions of Cruise Ship Routes in Western Mediterranean"
 collection: publications
-permalink: /publication/2023-06-21-emissions
+permalink: /publication/2023/emissions
 excerpt: "This study analyzes the environmental impact of cruise ship emissions in the Western Mediterranean."
 date: 2023-06-21
 venue: "Applied Sciences"

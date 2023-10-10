@@ -18,6 +18,19 @@ The goal is both to improve the state of the art algorithms for weather routing,
 {% include head.html %}
 
 <!-- Add this section to display the latest papers in bulletpoints -->
+<!--
+<h2>Latest Papers</h2>
+<ul class="latest-articles-container">
+  {% assign sorted_papers = site.publications | sort: 'date' | reverse %}
+  {% for paper in sorted_papers limit:3 %}
+    <li><a href="{{ paper.url }}">{{ paper.title }}</a></li>
+  {% endfor %}
+</ul>
+-->
+
+<!-- Add this section to display the chosen papers in bulletpoints -->
+{% assign trending_posts = "/posts/2023/06/08/european-parliament/,/posts/2023/07/10/wimobo/,/posts/2023/08/15/halifax-research/" | split: "," %}
+
 <h2>Latest Papers</h2>
 <ul class="latest-articles-container">
   {% assign sorted_papers = site.publications | sort: 'date' | reverse %}
@@ -54,7 +67,7 @@ The goal is both to improve the state of the art algorithms for weather routing,
 -->
 
 <!-- Add this section to display three chosen news articles horizontally -->
-{% assign trending_posts = "/posts/2023/06/08/european-parliament/,/posts/2023/07/10/wimobo/,/posts/2023/08/15/halifax-research/" | split: "," %}
+{% assign trending_posts = "/posts/2023/european-parliament/,/posts/2023/wimobo/,/posts/2023/halifax/" | split: "," %}
 
 <h2>Trending News</h2>
 <div class="latest-news-container">

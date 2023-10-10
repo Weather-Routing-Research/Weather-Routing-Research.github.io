@@ -2,7 +2,7 @@
 title: "Mathematical Optimization in Weather Routing through the Zermelo Navigation Problem"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-07-10-wimobo-daniel
+permalink: /talks/2023/wimobo-daniel
 venue: "Environmental Monitoring: An Exploratory Workshop, Spanish Royal Academy of Science"
 date: 2023-07-10
 location: "Madrid, Spain"

@@ -3,7 +3,7 @@
 title: "On the Resolution of Discrete Variational Equations with Boundary Conditions"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-06-08-monteiro-sebastian
+permalink: /talks/2023/monteiro
 venue: "XVII Congreso Dr. Antonio Monteiro"
 date: 2023-06-08
 location: "Bahía Blanca, Argentina"

@@ -2,7 +2,7 @@
 title: "Weather Routing Systems for Maritime Navigation"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-07-10-wimobo-david
+permalink: /talks/2023/wimobo-david
 venue: "Environmental Monitoring: An Exploratory Workshop, Spanish Royal Academy of Science"
 date: 2023-07-10
 location: "Madrid, Spain"

@@ -3,7 +3,7 @@
 title: "A Parallelization Strategy for Discrete Variational Problems"
 collection: talks
 type: "Talk"
-permalink: /talks/2022-12-13-rsme-sebastian
+permalink: /talks/2022/rsme-uma
 venue: "RSME - UMA"
 date: 2022-12-13
 location: "Ronda, Spain"
