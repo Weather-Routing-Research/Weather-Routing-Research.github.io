@@ -52,11 +52,7 @@ The goal is both to improve the state of the art algorithms for weather routing,
 -->
 
 <!-- Add this section to display three chosen news articles horizontally -->
-{% assign trending_posts = '[
-  "/posts/2023/06/08/european-parliament/",
-  "/posts/2023/07/10/wimobo/",
-  "/posts/2023/08/15/halifax-research/"
-]' %}
+{% assign trending_posts = "/posts/2023/06/08/european-parliament/,/posts/2023/07/10/wimobo/,/posts/2023/08/15/halifax-research/" | split: "," %}
 
 <h2>Trending News</h2>
 <div class="trending-news-container">
@@ -70,5 +66,6 @@ The goal is both to improve the state of the art algorithms for weather routing,
     </div>
   {% endfor %}
 </div>
+
 
 <a href="https://weathernavigation.com/news/" class="button">See All News</a>
