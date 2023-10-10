@@ -101,8 +101,10 @@ flex: 60%; /* Adjust the width as needed (e.g., 60% for content) */
   cursor: pointer;
   border-radius: 12px; /* Rounded corners */
   transition-duration: 0.4s; /* Transition effect when hovering over the button */
+  text-decoration: none;  /* Removes underline */
 }
 
 .button:hover {
   background-color: #009EE5; /* Slightly lighter color for hover effect */
+  text-decoration: none;  /* Ensures underline is removed during hover as well */
 }
