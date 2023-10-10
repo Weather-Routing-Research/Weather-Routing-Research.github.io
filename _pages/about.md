@@ -38,13 +38,35 @@ The goal is both to improve the state of the art algorithms for weather routing,
 <a href="https://weathernavigation.com/talks/" class="button">See All Talks</a>
 
 <!-- Add this section to display the three latest news articles horizontally -->
-<h2>Latest News</h2>
+<!-- <h2>Latest News</h2>
 <div class="latest-news-container">
   {% for post in site.posts limit:3 %}
     <div class="news-item">
       <a href="{{ post.url }}">
         <img src="{{ post.featured_image }}" alt="{{ post.title }}" style="max-width: 100%; height: auto;">
         <h3>{{ post.title }}</h3>
+      </a>
+    </div>
+  {% endfor %}
+</div>
+-->
+
+<!-- Add this section to display three chosen news articles horizontally -->
+{% assign trending_posts =
+  '[
+    "/posts/2023/06/08/european-parliament/",
+    "/posts/2023/07/10/wimobo/"
+    "/posts/2023/08/15/halifax-research/"
+  ]' | parse_json %}
+
+<h2>Trending News</h2>
+<div class="trending-news-container">
+  {% for permalink in trending_posts %}
+    {% assign current_post = site.posts | where: "permalink", permalink | first %}
+    <div class="news-item">
+      <a href="{{ current_post.url }}">
+        <img src="{{ current_post.featured_image }}" alt="{{ current_post.title }}" style="max-width: 100%; height: auto;">
+        <h3>{{ current_post.title }}</h3>
       </a>
     </div>
   {% endfor %}
