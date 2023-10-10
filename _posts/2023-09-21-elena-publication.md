@@ -1,7 +1,7 @@
 ---
 title: "Celebrating a New Book Chapter Publication"
 date: 2023-09-21
-permalink: /posts/2023/location
+permalink: /news/2023/location
 excerpt: "Dr. Elena Fernández Aréizaga's chapter in 'International Series in Operations Research & Management Science' aligns with our goal for sustainable maritime transport."
 featured_image: "https://weathernavigation.com/images/2023-09-21-elena.png"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "AI-Powered Ship Behavior Wins Top Prize at International Naval Engineering Congress"
 date: 2023-05-25
-permalink: /posts/2023/ai-naval-engineering/
+permalink: /news/2023/ai-naval-engineering/
 excerpt: "Revolutionizing marine engineering: our team's innovative research using artificial intelligence for optimal ship behavior earns acclaim."
 featured_image: "https://weathernavigation.com/images/2023-05-25-award.jpg"
 tags:

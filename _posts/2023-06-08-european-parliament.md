@@ -2,7 +2,7 @@
 title: "Weather Routing at the European Parliament"
 abbreviated_title: "At the European Parliament"
 date: 2023-06-08
-permalink: /posts/2023/european-parliament/
+permalink: /news/2023/european-parliament/
 excerpt: "Calling for collaboration: our mission to create a more sustainable shipping industry."
 featured_image: "https://weathernavigation.com/images/2023-06-07-pitch.png"
 tags:
