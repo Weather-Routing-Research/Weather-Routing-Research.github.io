@@ -14,6 +14,9 @@ This task involves both reviewing the vast literature on this subject and possib
 
 The goal is both to improve the state of the art algorithms for weather routing, publishing our results in specialized scientific journals and to develop software tools that address this important industrial problem for shipping companies.
 
+<!-- Style -->
+{% include head.html %}
+
 <!-- Add this section to display the five latest papers in bulletpoints -->
 <h2>Latest Papers</h2>
 <ul class="latest-articles-container">
