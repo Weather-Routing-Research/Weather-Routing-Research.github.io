@@ -2,7 +2,7 @@
 
 title: "Optimization of Seakeeping Behavior of Fishing Ships by Artificial Neural Networks"
 collection: publications
-permalink: /publication/2023/ingenieria-naval
+permalink: /publications/2023/ingenieria-naval
 excerpt: "This work explores the use of AI for predicting seakeeping behavior."
 date: 2023-08-01
 venue: 'Ingeniería Naval'
