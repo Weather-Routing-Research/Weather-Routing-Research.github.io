@@ -86,3 +86,23 @@ flex: 40%; /* Adjust the width as needed (e.g., 40% for image) */
 .column-60 {
 flex: 60%; /* Adjust the width as needed (e.g., 60% for content) */
 }
+
+/* Button */
+.button {
+  background-color: #006EC1;
+  border: none;
+  color: white;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px; /* Rounded corners */
+  transition-duration: 0.4s; /* Transition effect when hovering over the button */
+}
+
+.button:hover {
+  background-color: #009EE5; /* Slightly lighter color for hover effect */
+}

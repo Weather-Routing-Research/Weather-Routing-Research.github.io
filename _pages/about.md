@@ -22,7 +22,7 @@ The goal is both to improve the state of the art algorithms for weather routing,
   {% endfor %}
 </ul>
 
-See all papers [here](https://weathernavigation.com/publications/).
+<a href="https://weathernavigation.com/publications/" class="button">See All Publications</a>
 
 <!-- Add this section to display the five latest talks in bulletpoints -->
 <h2>Latest Talks</h2>
@@ -32,7 +32,7 @@ See all papers [here](https://weathernavigation.com/publications/).
   {% endfor %}
 </ul>
 
-See all talks [here](https://weathernavigation.com/talks/).
+<a href="https://weathernavigation.com/talks/" class="button">See All Talks</a>
 
 <!-- Add this section to display the three latest news articles horizontally -->
 <h2>Latest News</h2>
@@ -46,3 +46,5 @@ See all talks [here](https://weathernavigation.com/talks/).
     </div>
   {% endfor %}
 </div>
+
+<a href="https://weathernavigation.com/news/" class="button">See All News</a>
