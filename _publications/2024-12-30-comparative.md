@@ -4,7 +4,7 @@ title: "A Comparative Study of Optimisation Methods for Weather Routing"
 collection: publications
 permalink: /publications/2023/comparative/
 excerpt: 'An in-depth study comparing various optimisation methods for weather routing is underway.'
-date: 2023-09-01
+date: 2024-01-30
 venue: 'Unpublished'
 paperurl: 'https://scholar.google.com'
 featured_image: "https://weathernavigation.com/images/work-in-progress.jpg"
