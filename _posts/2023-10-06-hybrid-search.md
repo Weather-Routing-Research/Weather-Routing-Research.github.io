@@ -1,7 +1,7 @@
 ---
 title: "Hybrid Search Paper Published in ArXiV"
 date: 2023-10-06
-permalink: /news/2023/location
+permalink: /news/2023/hybrid-search
 excerpt: "The latest version of our research on weather routing using our novel Hybrid Search method has just been updated in ArXiV."
 featured_image: "https://weathernavigation.com/images/2023-10-06-hybrid-search.jpg"
 tags:
