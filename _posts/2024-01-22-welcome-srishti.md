@@ -5,10 +5,12 @@ permalink: /news/2024/welcome-srishti
 excerpt: "Srishti Gupta, an M.Sc. student in Applied Mathematics at the IIT Roorkee, joins our weather routing research team for a three-month internship."
 featured_image: "https://weathernavigation.com/images/2024-01-22-srishti.jpg"
 tags:
-  - collaboration
+  - internship
   - iit roorkee
   - msc
+  - capstone
   - applied mathematics
+  - india
 ---
 
 As the new year begins, our research group remains committed to advancing maritime route optimization. We welcome Srishti Gupta, who has recently joined our team. She will bring a fresh perspective from her studies in applied mathematics at the Indian Institute of Technology, Roorkee, one of India's premier universities known for its rigorous academic standards. Srishti arrived at Madrid on January 15th and will be collaborating with us at the IE Tower for the next three months.

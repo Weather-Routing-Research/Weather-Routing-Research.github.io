@@ -6,6 +6,9 @@ excerpt: "We were recently joined by Dalhousie's researcher at the IE Tower, whe
 featured_image: "https://weathernavigation.com/images/2023-06-22-visit.JPEG"
 tags:
   - academy
+  - dalhousie
+  - internship
+  - canada
 ---
 
 Our research in weather routing has opened doors to fruitful collaborations, one of the most significant being with Dalhousie University, represented by the esteemed Professor Robert Milson from the Department of Mathematics. It was an enriching experience to host Professor Milson during his stay in Madrid, where we gathered at the IE Tower to conduct in-depth research on weather routing. This led to the completion of our first joint paper, titled "Hybrid Search Method for Zermelo's Navigation Problem," which is currently under revision.

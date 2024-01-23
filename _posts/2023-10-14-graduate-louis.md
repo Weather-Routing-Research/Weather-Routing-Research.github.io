@@ -8,6 +8,9 @@ tags:
   - mathematics
   - statistics
   - conference
+  - dalhousie
+  - msc
+  - canada
 ---
 
 It is a proud moment for the Weather Routing Research team, supported by the BBVA Foundation. We are thrilled to announce that our team member, Louis Bu, a talented mathematician from Dalhousie University, has received the distinguished "Graduate Research Award" at the [2023 Mathematics, Statistics, and Computer Science Conference (MSCS)](https://scienceatlantic.ca/news/ms-2023-award-winners/).

@@ -7,6 +7,8 @@ excerpt: "Calling for collaboration: our mission to create a more sustainable sh
 featured_image: "https://weathernavigation.com/images/2023-06-07-pitch.png"
 tags:
   - entrepeneurship
+  - european parliament
+  - brussels
 ---
 
 Daniel Precioso, member of our research group, recently presented at the European Parliament, introducing our innovative weather routing solution. Our goal is to help the shipping industry by reducing its carbon footprint, thus reaching the Sustainable Development Goals faster!
