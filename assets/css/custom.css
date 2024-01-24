@@ -118,3 +118,10 @@ a.button:hover {
   background-color: #009EE5; /* Slightly lighter color for hover effect */
   text-decoration: none;  /* Ensures underline is removed during hover as well */
 }
+
+/* Master head */
+.masthead__inner-wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
