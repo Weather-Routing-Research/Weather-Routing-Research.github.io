@@ -13,7 +13,7 @@ author_profile: true
     {% assign sortedMembers = site.team | sort: 'priority'%}
     {% for member in sortedMembers %}
         <div class="team-member">
-            <a href="{{ member.url }}" target="_blank" rel="noopener noreferrer">
+            <a href="{{ member.profile }}" target="_blank" rel="noopener noreferrer">
                 <img src="{{ member.image }}" alt="{{ member.name }}" style="border-radius: 50%; width: 100px;">
             </a>
             <h2 style="font-size: 18px;">{{ member.name }}</h2>
