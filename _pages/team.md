@@ -8,5 +8,5 @@ author_profile: true
 {% include base_path %}
 
 {% for member in site.team reversed %}
-    {% include archive-single.html %}
+    {% include team.html %}
 {% endfor %}

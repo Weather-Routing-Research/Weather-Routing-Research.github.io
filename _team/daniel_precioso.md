@@ -1,6 +1,6 @@
 ---
 
-title: "Daniel Precioso"
+name: "Daniel Precioso"
 collection: team
 permalink: /team/daniel-precioso/
 affiliation: "IE University"

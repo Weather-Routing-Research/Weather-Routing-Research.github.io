@@ -1,0 +1,32 @@
+{% include head.html %}
+
+{% include base_path %}
+{% if post.header.teaser %}
+    {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+    {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+    {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+    {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+    <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+        <div class="team-members">
+            {% for member in site.team %}
+                <div class="team-member">
+                    <div class="team-member-image">
+                        <img src="{{ member.image }}" alt="{{ member.name }}">
+                    </div>
+                    <div class="team-member-details">
+                        <h2 class="team-member-name">{{ member.name }}</h2>
+                        <p class="team-member-affiliation">{{ member.affiliation }}</p>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </article>
+</div>
