@@ -10,7 +10,7 @@ author_profile: true
 
 <!-- Display team members -->
 <div class="team-members flex-container">
-    {% assign sortedMembers = site.team | sort: 'priority' | sort: 'name' %}
+    {% assign sortedMembers = site.team | sort: 'priority'%}
     {% for member in sortedMembers %}
         <div class="team-member">
             <a href="{{ member.url }}" target="_blank" rel="noopener noreferrer">
