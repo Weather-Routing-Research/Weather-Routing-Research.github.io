@@ -119,9 +119,9 @@ a.button:hover {
   text-decoration: none;  /* Ensures underline is removed during hover as well */
 }
 
-/* Master head */
-.masthead__inner-wrap {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+/* IE Logo */
+.navbar-logo {
+  position: fixed;
+  top: 0;
+  right: 0;
 }
