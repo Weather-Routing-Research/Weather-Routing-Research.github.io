@@ -10,7 +10,8 @@ author_profile: true
 
 <!-- Display team members -->
 <div class="team-members flex-container">
-    {% for member in site.team %}
+    {% assign sortedMembers = site.team | sort: 'priority' | sort: 'name' %}
+    {% for member in sortedMembers %}
         <div class="team-member">
             <a href="{{ member.url }}" target="_blank" rel="noopener noreferrer">
                 <img src="{{ member.image }}" alt="{{ member.name }}" style="border-radius: 50%; width: 100px;">
