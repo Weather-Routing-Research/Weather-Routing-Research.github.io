@@ -5,6 +5,8 @@ permalink: /team/
 author_profile: true
 ---
 
+{{ site.team | jsonify }}
+
 <div class="team-members">
     {% for member in site.team %}
         <div class="team-member">
