@@ -122,6 +122,6 @@ a.button:hover {
 /* IE Logo */
 .navbar-logo {
   position: fixed;
-  top: 50px;
-  right: 50px;
+  top: 20px;
+  right: 20px;
 }
