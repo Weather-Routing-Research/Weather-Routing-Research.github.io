@@ -118,10 +118,3 @@ a.button:hover {
   background-color: #009EE5; /* Slightly lighter color for hover effect */
   text-decoration: none;  /* Ensures underline is removed during hover as well */
 }
-
-/* IE Logo */
-.navbar-logo {
-  position: fixed;
-  top: 20px;
-  right: 20px;
-}
