@@ -1,6 +1,6 @@
 ---
 
-name: "Aurelio Muñoz"
+name: "Angelo Olivieri"
 collection: team
 permalink: /team/angelo-olivieri/
 affiliation: "INM, Roma"
