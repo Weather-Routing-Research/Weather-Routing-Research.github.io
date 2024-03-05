@@ -18,4 +18,4 @@ You can watch the talk here: [video](https://www.youtube.com/watch?v=i6BFsdg-AVw
 
 <p align="center"><a href="https://www.youtube.com/watch?v=i6BFsdg-AVw&t=1639s"><img src="{{ page.featured_image }}" alt="David's presentation at the Environmental Monitoring conference" width="50%"/></a></p>
 
-The research for this project is funded by the BBVA Foundation.
+The research for this project is funded by [BBVA Foundation](https://www.fbbva.es/) and [Agencia Estatal de Investigación](https://www.aei.gob.es/).

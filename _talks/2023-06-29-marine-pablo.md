@@ -19,4 +19,4 @@ The main objective presented was the search for ship geometry best adapted to sp
 
 The talk concluded by presenting the most pivotal findings and implications of the work. Attendees were part of the session "IS02 (II) - Artificial Intelligence Applied in Marine Engineering" at the prestigious 10th International Conference on Computational Methods in Marine Engineering (MARINE 2023).
 
-The research for this project is funded by the BBVA Foundation.
+The research for this project is funded by [BBVA Foundation](https://www.fbbva.es/) and [Agencia Estatal de Investigación](https://www.aei.gob.es/).

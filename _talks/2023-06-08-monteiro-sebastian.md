@@ -17,4 +17,4 @@ Given a γ-order Lagrangian system represented by a function \(L : T(γ)Q → R\
 
 When boundary conditions \(x0\) and \(xN\) are imposed, a resolution method based on computational parallelization is proposed. Starting from an initial "guess" sequence of points, each \(xk, k = 1, . . . , N − 1\), evolves iteratively, using only the information from the neighboring points. This method converges to a solution of the problem under certain conditions. The analysis of these conditions allows us to discuss the notion of conjugate points for such discrete systems.
 
-The research is funded by the BBVA Foundation.
+The research is funded by the [BBVA Foundation](https://www.fbbva.es/) and [Agencia Estatal de Investigación](https://www.aei.gob.es/).

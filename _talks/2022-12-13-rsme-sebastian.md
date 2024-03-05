@@ -15,4 +15,4 @@ Sebastián Ferraro from Universidad Nacional del Sur & CONICET presents research
 
 As an application showcase, Sebastián will discuss the Zermelo navigation problem and a fuel optimization issue in a controlled four-body problem in astrodynamics. The talk will also touch upon conditions necessary for the convergence of this method.
 
-This session is rooted in joint works with David Martín de Diego and Rodrigo Takuro Sato Martín de Almagro, both researchers under this project funded by the BBVA Foundation.
+This session is rooted in joint works with David Martín de Diego and Rodrigo Takuro Sato Martín de Almagro, both researchers under this project funded by [BBVA Foundation](https://www.fbbva.es/) and [Agencia Estatal de Investigación](https://www.aei.gob.es/).

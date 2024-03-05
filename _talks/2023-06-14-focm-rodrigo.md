@@ -17,4 +17,4 @@ The focus then shifts to the application of this parallel method for higher-orde
 
 This presentation is a collaborative effort with Sebastián J. Ferraro from Universidad Nacional del Sur & CONICET and David Martín de Diego from Instituto de Ciencias Matemáticas.
 
-The research for this project is funded by the BBVA Foundation.
+The research for this project is funded by [BBVA Foundation](https://www.fbbva.es/) and [Agencia Estatal de Investigación](https://www.aei.gob.es/).
