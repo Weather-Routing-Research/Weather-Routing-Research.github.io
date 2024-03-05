@@ -20,6 +20,6 @@ Our Hybrid Search method can be regarded as an extension of the recent Ferraro-M
 
 <img src="{{ page.featured_image }}" alt="Hybrid Search" width="100%"/>
 
-This research on weather routing is possible thanks to the research grant from BBVA Foundation. All researchers involved in this project want to express their gratitude towards them.
+This research on weather routing is possible thanks to the research grant from [BBVA Foundation](https://www.fbbva.es/) and [Agencia Estatal de Investigación](https://www.aei.gob.es/). All researchers involved in this project want to express their gratitude towards them.
 
 At this very moment, the paper is under review. We hope to share updates soon about its publication. Stay tuned!

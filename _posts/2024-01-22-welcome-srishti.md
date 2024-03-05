@@ -21,4 +21,4 @@ The research of Srishti will concentrate on two key areas: the enhancement of la
 
 By the end of her internship with us, work will be part of her capstone project. It is expected to contribute significantly to an upcoming academic publication.
 
-This weather routing research is supported by the BBVA Foundation and IE University. We acknowledge and appreciate their support in this collaborative effort.
+This weather routing research is supported by the [BBVA Foundation](https://www.fbbva.es/), [Agencia Estatal de Investigación](https://www.aei.gob.es/) and IE University. We acknowledge and appreciate their support in this collaborative effort.

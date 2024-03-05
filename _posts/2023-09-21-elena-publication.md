@@ -14,7 +14,7 @@ We are excited to announce that Dr. Elena Fernández Aréizaga has published a c
 
 <img src="{{ page.featured_image }}" alt="Elena Fernández Aréizaga" width="100%"/>
 
-Dr. Fernández has hold very relevant roles during her academic career, like the presidency of the Association of European Operational Research Societies and her professorship at the University of Cádiz. She recently joined our project on weather routing, backed by the support of the BBVA Foundation.
+Dr. Fernández has hold very relevant roles during her academic career, like the presidency of the Association of European Operational Research Societies and her professorship at the University of Cádiz. She recently joined our project on weather routing, backed by the support of the [BBVA Foundation](https://www.fbbva.es/) and [Agencia Estatal de Investigación](https://www.aei.gob.es/).
 
 We want to express our heartfelt congratulations to Dr. Fernández!
 

@@ -15,7 +15,7 @@ Daniel Precioso, member of our research group, recently presented at the Europea
 
 During the presentation, Daniel highlighted a concerning fact: the shipping industry releases 30 tons of CO2 into the atmosphere every second. He emphasized the urgent need for impactful solutions. Weather routing offers shipping companies the means to cut their emissions by at least 2%, while being accesible and affordable (as it is run on the cloud). Daniel highlighted the need for collaboration between research and industry.
 
-This accomplishment was made possible with the support of the BBVA Foundation. For those interested, Daniel's presentation at the European Parliament can be watched here: [https://youtu.be/T2VRDSczxVM](https://youtu.be/T2VRDSczxVM)
+This accomplishment was made possible with the support of the [BBVA Foundation](https://www.fbbva.es/) and [Agencia Estatal de Investigación](https://www.aei.gob.es/). For those interested, Daniel's presentation at the European Parliament can be watched here: [https://youtu.be/T2VRDSczxVM](https://youtu.be/T2VRDSczxVM)
 
 <p align="center"><a href="https://youtu.be/T2VRDSczxVM"><img src="https://img.youtube.com/vi/T2VRDSczxVM/0.jpg" alt="Daniel Precioso's pitch at the European Parliament" width="80%"/></a></p>
 
