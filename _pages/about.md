@@ -96,7 +96,7 @@ The goal is both to improve the state of the art algorithms for weather routing,
 
 This research is supported by:
 
-- BBVA Foundation via the project "Mathematical optimization for a more efficient, safer and decarbonized maritime transport"
+- BBVA Foundation via the project "Mathematical optimization for a more efficient, safer and decarbonized maritime transport".
 
 - Spanish Agencia Estatal de Investigación under grants PID2021-122154NB-I00 and TED2021-129455B-I00.
 
