@@ -94,6 +94,10 @@ The goal is both to improve the state of the art algorithms for weather routing,
 
 ---
 
-Project funded by MCIN/AEI/10.13039/501100011033 and by the European Union NextGenerationEU/PRTR under Proyectos Estratégicos Orientados a la "Transición Ecológica y a la Transición Digital".
+This research is supported by:
+
+- BBVA Foundation via the project "Mathematical optimization for a more efficient, safer and decarbonized maritime transport"
+
+- Spanish Agencia Estatal de Investigación under grants PID2021-122154NB-I00 and TED2021-129455B-I00.
 
 <p align="center"><img src="https://weathernavigation.com/images/banner-aei.png" alt="Banner" width="80%"/></p>
