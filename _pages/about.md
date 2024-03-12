@@ -101,10 +101,10 @@ This research is supported by:
 - Spanish [Agencia Estatal de Investigación](https://www.aei.gob.es/) under grant  TED2021-129455B-I00, "Optimization of maritime routes with real time oceanographic and meteorological data".
 
 <div style="display: flex; justify-content: center;">
-  <div style="flex: 40%; margin-right: 10px;">
+  <div style="flex: 35%; margin-right: 10px;">
     <img src="https://weathernavigation.com/images/banner-bbva.png" alt="Banner BBVA" style="width: 100%; height: auto;"/>
   </div>
-  <div style="flex: 60%; margin-left: 10px;">
+  <div style="flex: 65%; margin-left: 10px;">
     <img src="https://weathernavigation.com/images/banner-aei.png" alt="Banner AEI" style="width: 100%; height: auto;"/>
   </div>
 </div>
