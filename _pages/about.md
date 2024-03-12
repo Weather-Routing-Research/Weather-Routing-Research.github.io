@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Optimization of maritime routes for a more efficient, safer and decarbonized maritime transport"
-excerpt: "Optimization of maritime routes for a more efficient, safer and decarbonized maritime transport"
+title: "Optimization of maritime routes for a more efficient, safer and decarbonized transport"
+excerpt: "Optimization of maritime routes for a more efficient, safer and decarbonized transport"
 author_profile: true
 redirect_from: 
   - /about/
