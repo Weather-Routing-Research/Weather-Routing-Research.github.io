@@ -41,7 +41,7 @@ The goal is both to improve the state of the art algorithms for weather routing,
   {% endfor %}
 </ul>
 
-<a href="https://weathernavigation.com/publications/" class="button">See All Publications</a>
+<a href="https://weathernavigation.com/publications/" class="button" style="background-color: #00376D; color: #FFFFFF;">See All Publications</a>
 
 <!-- Add this section to display the latest talks in bulletpoints -->
 <h2>Latest Talks</h2>
@@ -52,7 +52,7 @@ The goal is both to improve the state of the art algorithms for weather routing,
   {% endfor %}
 </ul>
 
-<a href="https://weathernavigation.com/talks/" class="button">See All Talks</a>
+<a href="https://weathernavigation.com/talks/" class="button" style="background-color: #00376D; color: #FFFFFF;">See All Talks</a>
 
 <!-- Add this section to display the three latest news articles horizontally -->
 <!-- <h2>Latest News</h2>
@@ -90,7 +90,11 @@ The goal is both to improve the state of the art algorithms for weather routing,
   {% endfor %}
 </div>
 
-<a href="https://weathernavigation.com/news/" class="button">See All News</a>
+<a href="https://weathernavigation.com/news/" class="button" style="background-color: #00376D; color: #FFFFFF;">See All News</a>
+
+---
+
+<a href="https://demo.weathernavigation.com/" class="button" style="background-color: #00376D; color: #FFFFFF;">Demo</a>
 
 ---
 
