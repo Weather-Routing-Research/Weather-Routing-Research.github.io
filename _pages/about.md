@@ -94,7 +94,7 @@ The goal is both to improve the state of the art algorithms for weather routing,
 
 ---
 
-<a href="https://demo.weathernavigation.com/" class="button" style="background-color: #00376D; color: #FFFFFF;">Demo</a>
+<a href="https://demo.weathernavigation.com/" class="button" style="background-color: #00376D; color: #FFFFFF; width: 100%;">Demo</a>
 
 ---
 
