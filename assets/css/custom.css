@@ -41,7 +41,7 @@ transform: scale(1.05); /* Slight zoom effect on hover */
 position: absolute;
 bottom: 0; /* Position the title at the bottom of the image */
 width: 100%; /* Use the full width of the parent */
-background-color: rgba(0, 0, 255, 0.6); /* Blue background with 60% opacity for readability */
+background-color: #00376D99; /* Blue background with 60% opacity for readability */
 color: white; /* Text color set to white for visibility against the blue */
 padding: 10px 0; /* Padding at top and bottom */
 margin: 0; /* Remove any default margins */
@@ -99,7 +99,7 @@ flex: 60%; /* Adjust the width as needed (e.g., 60% for content) */
 
 /* Button */
 a.button {
-  background-color: #006EC1;
+  background-color: #00376D;
   border: none;
   color: white;
   padding: 8px 16px;
@@ -112,9 +112,10 @@ a.button {
   border-radius: 12px; /* Rounded corners */
   transition-duration: 0.4s; /* Transition effect when hovering over the button */
   text-decoration: none;  /* Removes underline */
+  width: 100%; /* Ensures the button takes up the full width of the container */
 }
 
 a.button:hover {
-  background-color: #009EE5; /* Slightly lighter color for hover effect */
+  background-color: #74B0D4; /* Slightly lighter color for hover effect */
   text-decoration: none;  /* Ensures underline is removed during hover as well */
 }
