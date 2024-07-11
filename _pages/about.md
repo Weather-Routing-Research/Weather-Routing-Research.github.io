@@ -38,7 +38,7 @@ The goal is both to improve the state of the art algorithms for weather routing,
 -->
 
 <!-- Add this section to display the chosen papers in bulletpoints -->
-{% assign trending_papers = "/publications/2023/comparative/,/publications/2023/hybrid-search/,/publications/2023/emissions/" | split: "," %}
+{% assign trending_papers = "/publications/2024/benchmarks/,/publications/2024/hybrid-search/,/publications/2023/emissions/" | split: "," %}
 
 <h2>Latest Papers</h2>
 <ul class="latest-articles-container">
