@@ -8,7 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center"><img src="https://weathernavigation.com/images/banner.png" alt="Banner" width="100%"/></p>
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 35%; margin-right: 10px;">
+    <img src="https://weathernavigation.com/images/banner-bbva.png" alt="Banner BBVA" style="width: 100%; height: auto;"/>
+  </div>
+  <div style="flex: 65%; margin-left: 10px;">
+    <img src="https://weathernavigation.com/images/banner-aei.png" alt="Banner AEI" style="width: 100%; height: auto;"/>
+  </div>
+</div>
 
 [IE University](https://www.ie.edu/) and [Universidad de Cádiz](https://www.uca.es/) promote this interdisciplinary project aimed at providing algorithms to calculate safe and optimized shipping routes for reduced fuel consumption and emissions, taking into account real time oceanographic and meteorological information. The necessary data will be collected from public repositories such as NOAA, Copernicus or HYCOM, and they include predictions for ocean currents, wind and waves. Detailed models will be built to estimate the fuel consumption and emissions of every vessel as a function of its characteristics (displacement, hull length, engine power), cruising speed and sea conditions (currents, waves and wind).
 
@@ -104,11 +111,4 @@ This research is supported by:
 
 - Spanish [Agencia Estatal de Investigación](https://www.aei.gob.es/) under grant  TED2021-129455B-I00, "Optimization of maritime routes with real time oceanographic and meteorological data".
 
-<div style="display: flex; justify-content: center;">
-  <div style="flex: 35%; margin-right: 10px;">
-    <img src="https://weathernavigation.com/images/banner-bbva.png" alt="Banner BBVA" style="width: 100%; height: auto;"/>
-  </div>
-  <div style="flex: 65%; margin-left: 10px;">
-    <img src="https://weathernavigation.com/images/banner-aei.png" alt="Banner AEI" style="width: 100%; height: auto;"/>
-  </div>
-</div>
+<p align="center"><img src="https://weathernavigation.com/images/banner.png" alt="Banner" width="100%"/></p>
