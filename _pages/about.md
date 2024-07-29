@@ -101,7 +101,14 @@ The goal is both to improve the state of the art algorithms for weather routing,
 
 ---
 
-<a href="https://demo.weathernavigation.com/" class="button">Demo</a>
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 50%; margin-right: 10px;">
+    <a href="https://benchmark.weathernavigation.com/" class="button">WeatherRouting Bench 1.0</a>
+  </div>
+  <div style="flex: 50%; margin-left: 10px;">
+    <a href="https://demo.weathernavigation.com/" class="button">Demo</a>
+  </div>
+</div>
 
 ---
 
