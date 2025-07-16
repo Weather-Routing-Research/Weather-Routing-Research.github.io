@@ -76,7 +76,7 @@ The goal is both to improve the state of the art algorithms for weather routing,
 -->
 
 <!-- Add this section to display three chosen news articles horizontally -->
-{% assign trending_posts = "/news/2024/dubai/, /news/2023/european-parliament/,/news/2023/wimobo/" | split: "," %}
+{% assign trending_posts = "/news/2024/dubai/,/news/2023/european-parliament/,/news/2023/wimobo/" | split: "," %}
 
 <h2>Trending News</h2>
 <div class="latest-news-container">
