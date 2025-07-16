@@ -2,7 +2,7 @@
 
 title: "New analysis in the preliminary design for LNG and LPG ships"
 collection: publications
-permalink: /publications/2025/lng-lpg-design/
+permalink: /publications/2025/lng-lpg-design
 excerpt: "This paper presents statistical and machine learning analyses over a large dataset of LNG and LPG ships to improve the accuracy of early-stage vessel design."
 date: 2025-10-15
 venue: "Marine Structures"
