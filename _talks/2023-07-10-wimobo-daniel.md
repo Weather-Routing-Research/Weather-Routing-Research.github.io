@@ -6,7 +6,7 @@ permalink: /talks/2023/wimobo-daniel
 venue: "Environmental Monitoring: An Exploratory Workshop, Spanish Royal Academy of Science"
 date: 2023-07-10
 location: "Madrid, Spain"
-featured_image: "https://daniprec.github.io/images/230710_wimobo.JPEG"
+featured_image: "https://daniprec.github.io/images/2023-07-10-wimobo.JPEG"
 excerpt: "Daniel Precioso explores the application of mathematics in weather routing, with a focus on the Zermelo Navigation Problem (ZNP)."
 ---
 
