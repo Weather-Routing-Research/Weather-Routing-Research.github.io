@@ -61,18 +61,18 @@ align-items: center; /* Center items vertically within each post */
 overflow: hidden; /* Hide any content or image overflow */
 }
 
-  /* Ensure consistent height for featured images */
+/* Ensure consistent height for featured images */
 .archive__item-featured-image img {
-width: auto;  /* The width will adjust depending on the height and aspect ratio of the image */
-min-height: 300px;
-margin-top: 10px; /* Adjust the top margin as needed */
-margin-bottom: 10px; /* Adjust the bottom margin as needed */
-object-fit: cover;  /* Scale the image to cover its container without distorting its aspect ratio */
-object-position: center; /* Position the center of the image in the center of the container. Adjust if necessary. */
-border-radius: 5%; /* Add rounded corners to the featured image */
-display: flex; /* Remove extra space below the image */
-align-items: center; /* Center items vertically within each post */
-overflow: hidden;
+  width: 100%;
+  aspect-ratio: 4 / 3; /* Maintains consistent proportions */
+  margin-top: 10px; /* Adjust the top margin as needed */
+  margin-bottom: 10px; /* Adjust the bottom margin as needed */
+  object-fit: cover;  /* Scale the image to cover its container without distorting its aspect ratio */
+  object-position: center; /* Position the center of the image in the center of the container. Adjust if necessary. */
+  border-radius: 5%; /* Add rounded corners to the featured image */
+  display: block;
+  align-items: center; /* Center items vertically within each post */
+  overflow: hidden;
 }
 
 /* Ensure content takes up remaining space in the post */
